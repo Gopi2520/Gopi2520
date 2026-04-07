@@ -1,4 +1,4 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=3F90F7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Gopinath;Backend+Developer;Java+%7C+Spring+Boot;Building+Scalable+Applications)
 
 <!--
 **Gopi2520/Gopi2520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
